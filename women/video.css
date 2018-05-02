@@ -1,0 +1,31 @@
+.wrapper{
+	width:1110px;
+	background:#EEE;
+	margin:0 auto;
+}
+.heading{
+	height:100px;
+	background:#FDA4BA;
+	padding:50px;
+	text-align:center;
+}
+.navigation{
+	height:90px;
+	background:#FEC5E5;
+	text-align:center;
+}
+.content{
+	min-height:600px;
+	background:#FCBACB;
+	width:300px;
+	float:left;
+	text-align:center;
+}
+.footer{
+	clear:both;
+	background:#F79AC0;
+	height:40px;
+	color:white;
+	text-align:center;
+	padding:10px;
+}
